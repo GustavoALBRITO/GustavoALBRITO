@@ -1,4 +1,4 @@
-# Gustavo Brito 
+# Gustavo Brito ╰(*°▽°*)╯
 
 Seja bem-vindo(a), sou Gustavo, atualmente estou aprimorando minhas habilidades em linguagem Python para utilização em Data Analytics. 
 
